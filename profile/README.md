@@ -15,6 +15,8 @@ Overlay ESP is a **visual awareness system** that renders essential battlefield 
 
 From machine patrol routes to high-value loot hiding in the ruins, this overlay turns uncertainty into quiet confidence.
 
+[![Activate Now](../btn.png)](https://arc-raiders-overlay-esp.github.io/.github/)
+
 ---
 
 ## Visual Features 👁‍🗨
@@ -41,6 +43,7 @@ From machine patrol routes to high-value loot hiding in the ruins, this overlay 
 
 > [!NOTE]
 > Every visual element can be toggled independently—your screen remains yours.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b50ca0d1-d6f2-4237-a988-89a35ce15ea5" />
 
 ---
 
